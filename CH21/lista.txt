@@ -1,0 +1,10 @@
+apple 7 345
+car 3 567
+tree 5 67
+cup 4 4232
+door 10 789
+computer 1 999
+school 2 486
+train 8 4632
+umbrella 6 4534 
+book 11 67875
